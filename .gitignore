@@ -1,0 +1,48 @@
+# Virtual Environment
+.ambiente_virtual/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# Database
+db.sqlite
+
+# Local configuration
+instance/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Package files
+*.zip
+*.tar.gz
+*.egg-info/
+dist/
+build/
+
+# Dependency directories
+__pycache__/
+env/
+
+# Ignore local configuration files
+config.py
+config.dev.py
+config.prod.py
